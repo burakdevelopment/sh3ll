@@ -1,8 +1,8 @@
-# sh3ll: IP Camera Discovery and Security Analysis Tool
+# SH3LL: IP Camera Discovery and Security Analysis Tool
 
 ![Version](https://img.shields.io/badge/version-v2.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-Linux%20|%20Windows%20(WSL)-orange.svg)
 
-**sh3ll** is an all-in-one security tool that not only discovers IP cameras and similar IoT devices on your network but also proactively analyzes their security posture. Leveraging an asynchronous architecture for high-speed scanning, it performs vulnerability analysis and penetration testing operations on the devices it finds.
+**SH3LL** is an all-in-one security tool that not only discovers IP cameras and similar IoT devices on your network but also proactively analyzes their security posture. Leveraging an asynchronous architecture for high-speed scanning, it performs vulnerability analysis and penetration testing operations on the devices it finds.
 
 ![image](https://github.com/user-attachments/assets/81cebc3e-7cb6-44d9-9414-79e051cb2ae9)
 
