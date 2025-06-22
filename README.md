@@ -1,8 +1,8 @@
-# CamSpector: IP Camera Discovery and Security Analysis Tool
+# sh3ll: IP Camera Discovery and Security Analysis Tool
 
 ![Version](https://img.shields.io/badge/version-v2.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-Linux%20|%20Windows%20(WSL)-orange.svg)
 
-**CamSpector** is an all-in-one security tool that not only discovers IP cameras and similar IoT devices on your network but also proactively analyzes their security posture. Leveraging an asynchronous architecture for high-speed scanning, it performs vulnerability analysis and penetration testing operations on the devices it finds.
+**sh3ll** is an all-in-one security tool that not only discovers IP cameras and similar IoT devices on your network but also proactively analyzes their security posture. Leveraging an asynchronous architecture for high-speed scanning, it performs vulnerability analysis and penetration testing operations on the devices it finds.
 
 ![image](https://github.com/user-attachments/assets/81cebc3e-7cb6-44d9-9414-79e051cb2ae9)
 
@@ -54,10 +54,10 @@ Linux is the recommended platform for using all features of this tool seamlessly
 
 2.  **Clone the Project:**
     ```bash
-    git clone [https://github.com/your_username/CamSpector.git](https://github.com/your_username/CamSpector.git)
+    git clone [https://github.com/your_username/sh3ll.git](https://github.com/your_username/sh3ll.git)
     cd CamSpector
     ```
-    *(Note: Replace `your_username/CamSpector.git` with your own GitHub repository URL.)*
+    *(Note: Replace `your_username/sh3ll.git` with your own GitHub repository URL.)*
 
 3.  **Install Python Dependencies:**
     Inside the project directory, create a `requirements.txt` file with the following content:
@@ -100,7 +100,7 @@ Since native installation of tools like `hydra` on Windows can be challenging, u
 After completing all the necessary installations, you can start the program with the following command in the tool's directory:
 ```bash
 python3 main.py
-
+```
 
 ### Menu Options
 #### Main Menu:
