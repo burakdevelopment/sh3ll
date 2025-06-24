@@ -1,0 +1,11 @@
+admin
+Admin
+administrator
+root
+Root
+service
+supervisor
+ubnt
+camera
+Camera
+
