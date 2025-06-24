@@ -105,7 +105,7 @@ Since native installation of tools like `hydra` on Windows can be challenging, u
 ### First Run
 After completing all the necessary installations, you can start the program with the following command in the tool's directory:
 ```bash
-python3 main.py
+python3 sh3ll.py
 ```
 
 ### Menu Options
