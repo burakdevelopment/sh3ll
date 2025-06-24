@@ -82,6 +82,13 @@ Linux is the recommended platform for using all features of this tool seamlessly
     ```
     Replace the placeholder `ENTER_YOUR_NVD_API_KEY_HERE` inside the file with your actual API key.
 
+5.  **Set Up the Configuration File 2:**
+    You also need to enter the NVD API Key in the cve_checker.py file.
+    ```bash
+    nano cve_checker.py
+    ```
+    Replace the line 9 `api-key` inside the file with your actual API key.
+
 ### Installation on Windows (Recommended via WSL)
 Since native installation of tools like `hydra` on Windows can be challenging, using the **Windows Subsystem for Linux (WSL)** is highly recommended for the most stable and seamless experience.
 
