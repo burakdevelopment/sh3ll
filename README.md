@@ -54,10 +54,9 @@ Linux is the recommended platform for using all features of this tool seamlessly
 
 2.  **Clone the Project:**
     ```bash
-    git clone [https://github.com/your_username/sh3ll.git](https://github.com/your_username/sh3ll.git)
-    cd CamSpector
+    git clone https://github.com/burakdevelopment/sh3ll
+    cd sh3ll
     ```
-    *(Note: Replace `your_username/sh3ll.git` with your own GitHub repository URL.)*
 
 3.  **Install Python Dependencies:**
     Inside the project directory, create a `requirements.txt` file with the following content:
