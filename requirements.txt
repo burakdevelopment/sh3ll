@@ -1,0 +1,6 @@
+requests
+onvif_zeep
+rich
+aiohttp
+pysnmp
+zeep
