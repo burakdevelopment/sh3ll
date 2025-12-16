@@ -124,7 +124,7 @@ After the scan is complete and devices are listed, you can perform the following
   - If an exploit function is defined for a CVE in `exploits.py`, it notifies you and provides an option to attempt the exploit.
 
 ## 🧩 Modularity and Extensibility
-CamSpector is designed with a modular structure for easy extension.
+sh3ll is designed with a modular structure for easy extension.
 
 - **`config.json`**: Keeps sensitive and configuration data like API keys separate from the code.
 - **`cve_checker.py`**: Contains all the NVD API communication logic. If you want to add a different vulnerability database (e.g., Exploit-DB API) in the future, you only need to modify this file.
